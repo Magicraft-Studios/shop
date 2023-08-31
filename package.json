@@ -1,0 +1,7 @@
+{
+  "name": "magicraft-studios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Magicraft-Studios/shop.git",
+  "license": "MIT"
+}
